@@ -1,0 +1,17 @@
+!!python/object/apply:collections.OrderedDict
+- - - score
+    - - !!python/tuple
+        - JER
+        - 314159265
+      - !!python/tuple
+        - BRI
+        - 271828183
+      - !!python/tuple
+        - GHK
+        - 207879576
+      - !!python/tuple
+        - MPF
+        - 161803399
+      - !!python/tuple
+        - YAY
+        - 141421356
